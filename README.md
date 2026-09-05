@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mallikarjuna Reddy 👋
 
-<!--
-**M-Mallikarjuna-Reddy/M-Mallikarjuna-Reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy building practical projects and improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Java
+- C++
+- DBMS & SQL
+- NumPy
+- HTML
+- CSS
+- Responsive Web Design
+
+## Currently Learning
+
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Data Structures & Algorithms
+
+## Projects
+
+- Smart Exam Scheduler
+- Smart Hostel Management System
+- Music Playlist
+- Student Management System
+- Responsive Landing Page
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Software Development
