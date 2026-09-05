@@ -24,6 +24,7 @@ I'm a Computer Science student specializing in Artificial Intelligence and Machi
 
 ## Projects
 
+- IoT & Embedded Systems Projects
 - Smart Exam Scheduler
 - Smart Hostel Management System
 - Music Playlist
@@ -34,5 +35,6 @@ I'm a Computer Science student specializing in Artificial Intelligence and Machi
 
 - Artificial Intelligence
 - Machine Learning
+- IoT & Embedded Systems
 - Data Science
 - Software Development
